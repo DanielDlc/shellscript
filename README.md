@@ -1,2 +1,2 @@
 # shellscript
-testar shell script
+testando shell script
