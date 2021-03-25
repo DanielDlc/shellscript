@@ -6,7 +6,7 @@
 # Autor: Daniel Louro Costa (dlc.engcomputacao@gmail.com)
 # Data Criação: 25/03/2021
 #
-# Descrição: criação de diretório
+# Descrição: entrar, sair, modificar um diretório
 #
 # Exemplo de uso: ./cd.sh
 #
