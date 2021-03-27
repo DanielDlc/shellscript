@@ -22,7 +22,7 @@ pstree
 #							   #
 # Descrição: mostrar processos				   #
 #							   #
-# Exemplo de uso: ./ps_03.sh3				   #
+# Exemplo de uso: ./ps_04.sh3				   #
 #							   #
 # Alteracoes						   #		   
 #	Dia X - Inclusao da Função de ordenacao		   #
