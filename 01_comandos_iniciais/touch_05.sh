@@ -16,7 +16,7 @@ ls -l
 #							   #
 # Descrição: criar e atualizar arquivos			   #
 #							   #
-# Exemplo de uso: ./touch_05.sh3		           #
+# Exemplo de uso: ./touch_05.sh 		           #
 #							   #
 # Alteracoes						   #		   
 #	Dia X - Inclusao da Função de ordenacao		   #
