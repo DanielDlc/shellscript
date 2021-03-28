@@ -20,7 +20,7 @@ echo -e "Linux\n2021"
 #							   #
 # Descrição: produzir as saídas     	 		   #	
 #							   #
-# Exemplo de uso: ./echo_06.sh3				   #
+# Exemplo de uso: ./echo_06.sh				   #
 #							   #
 # Alteracoes						   #		   
 #	Dia X - Inclusao da Função de ordenacao		   #
