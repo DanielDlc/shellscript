@@ -6,7 +6,7 @@ cd Desktop/shellscript/02_comandos_dentro_de_arquivos/
 # exibe o resultado de um arquivo na saída padrão
 cat alunos.txt
 
-# não vai numerar não estejam em branco
+# numera as linhas, porém não conta as linhas em branco
 cat -b alunos2.txt
 
 # numera todas as linhas (inclusive as linhas em branco)
