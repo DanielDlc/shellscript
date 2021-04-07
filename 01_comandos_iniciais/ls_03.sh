@@ -32,3 +32,6 @@ ls -1
 
 # lista arquivos com extensão específica ( asteristico seguido da extensão do arquivo)
 ls *.sh
+
+# mostrar arquivos ocultos
+ls -a
