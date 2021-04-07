@@ -6,6 +6,9 @@ cd Desktop/shellscript/02_comandos_dentro_de_arquivos/
 # exibe o resultado de um arquivo na saída padrão
 cat alunos.txt
 
+# exibe conteúdo de todos os arquivos com nome (alunos)
+cat alunos*
+
 # numera as linhas, porém não conta as linhas em branco
 cat -b alunos2.txt
 
