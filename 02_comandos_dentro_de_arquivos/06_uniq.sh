@@ -9,7 +9,7 @@ sort alunos.txt | uniq
 # mostra tudo que aparece uma única vez (e não lista nomes repetidos) 
 sort alunos.txt | uniq -u
 
-# mostra aprnas nomes duplicados (não ira listar nomes que não foram repetidos)
+# mostra apenas nomes duplicados (não ira listar nomes que não foram repetidos)
 sort alunos.txt | uniq -d
 
 # conta as repetições que o nome aparece na tela
