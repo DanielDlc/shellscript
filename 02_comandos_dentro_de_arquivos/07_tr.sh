@@ -21,7 +21,7 @@ echo "danieldlc shellscript" | tr ds DS
 # retorna apenas uma unica vez quando existe letra repetida
 echo "ShellScript" | tr -s 'l'
 
-# letras minúsculas virarem maiúsculas
+# letra minúscula maiúscula para 
 echo "danieldlc shell script" | tr [:lower:] [:upper:] 
 
 
