@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# redirecionar a saída padrão de um comando para o outro arquivo (sinal de > cria/substitui) 
+# redirecionar a saída padrão de um comando para o outro arquivo (sinal de > cria/substitui.) 
 cat alunos.txt > alunos-temp.txt
 
 # podemos observar o resultado com  
