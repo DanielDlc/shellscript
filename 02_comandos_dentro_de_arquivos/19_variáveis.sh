@@ -6,10 +6,10 @@ env | less	# env é reconhecido apenas por um ambiente local
 # podemos observar que as variáveis (são declaradas com letras MAIÚSCULAS= )
 set | less	# set é reconhecido por um ambiente global
 
-# referenciar com sinal de $ (dolar an frente) para chamar a variável
+# referenciar com sinal de $ (dolar na frente) para chamar a variável
 echo $HOME
 
-# declarando minha variável com letra (maiúscula igual o valor) VARIAVEL01=valor
+# declarando minha variável com letra (maiúscula igual o valor) VARIAVEL_01=valor
 VARIAVEL_01=Daniel
 
 # para chamar a variável com nome de valor digitamos.
