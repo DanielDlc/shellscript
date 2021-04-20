@@ -36,7 +36,7 @@ bash 		# criar novo bash
 echo $$ 	# mostrar PID do bash filho (podemos observar um novo bash)
 echo $VARIAVEL
 
-# varificar hora do sistema
+# verificar hora do sistema
 date
 
 # colocando date dentro da variável temos que usar crase ( `date` )
