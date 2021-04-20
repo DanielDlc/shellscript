@@ -4,7 +4,7 @@
 env | less	# env é reconhecido apenas por um ambiente local
 
 # podemos observar que as variáveis (são declaradas com letras MAIÚSCULAS= )
-set | less	# less é reconhecido por um ambiente global
+set | less	# set é reconhecido por um ambiente global
 
 # referenciar com sinal de $ (dolar an frente) para chamar a variável
 echo $HOME
