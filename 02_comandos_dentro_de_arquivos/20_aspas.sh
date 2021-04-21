@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# podemo listar todo conteúdo de um diretório utilzando * (coringa)
+# podemos listar todo conteúdo de um diretório utilzando o carácter * (coringa)
 echo *
 
 # podemos proteger (não interpretar) utilizando "*" '*' \* 
