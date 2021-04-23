@@ -17,7 +17,7 @@ mv mkdir_01.sh /home/daniel/Documentos | progress -m
 #							   #
 # Descrição: mover diretório e renomear 		   #               
 #							   #
-# Exemplo de uso: ./08_cp.sh				   #
+# Exemplo de uso: ./09_cp.sh				   #
 #							   #
 # Alteracoes						   #
 #							   #
