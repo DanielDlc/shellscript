@@ -3,7 +3,7 @@
 clear
 
 # data e hora com variavel
-DATAHORA=$(date =%H:%M)
+DATAHORA=$(date +%H:%M)
 
 # Mostrar lista de alunos 
 ALUNOS=/home/daniel/Desktop/shellscript/04_Shell_script/alunos.txt
