@@ -12,6 +12,7 @@ echo "Exibir data e hora atual: $DATAHORA"
 echo""
 echo "==================================="
 echo""
+echo "Exibir lista de alunos"
 sort $ALUNOS
 
 ############################################################
