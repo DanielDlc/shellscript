@@ -1,15 +1,18 @@
 #!/bin/bash
 
+clear
+
 # data e hora com variavel
-DATAHORA=$(date =%H:5M)
+DATAHORA=$(date =%H:%M)
 
 # Mostrar lista de alunos 
 ALUNOS=/home/daniel/Desktop/shellscript/04_Shell_script/alunos.txt
 
-
 echo "Exibir data e hora atual: $DATAHORA"
 echo""
-
+echo "==================================="
+echo""
+sort $ALUNOS
 
 ############################################################
 #							   #
