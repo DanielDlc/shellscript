@@ -20,9 +20,9 @@ done
 # Autor: Daniel Louro Costa (dlc.engcomputacao@gmail.com) #
 # Data criação: 13/05/2021                                #
 #                                                         #
-# Descrição: utilização de case como parâmetro            #
+# Descrição: sequência de números                         #
 #                                                         #
-# Exemplo de uso: ./04_case.sh  D                         #
+# Exemplo de uso: ./01instrução-for.sh                    #
 #                                                         #
 # Alterações                                              #
 #                                                         #
