@@ -22,7 +22,7 @@ done
 #                                                         #
 # Descrição: sequência de números                         #
 #                                                         #
-# Exemplo de uso: ./01_instrução-for.sh                   #
+# Exemplo de uso: ./01_instrução_for.sh                   #
 #                                                         #
 # Alterações                                              #
 #                                                         #
