@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# sequência do início ao fim com entrada do usuário
+# limpar tela
 clear
 
 # ler o valor do início e do final da sequência com variável (INICIO e FINAL)
@@ -22,7 +22,7 @@ done
 #                                                         #
 # Descrição: sequência de números                         #
 #                                                         #
-# Exemplo de uso: ./01instrução-for.sh                    #
+# Exemplo de uso: ./01_instrução-for.sh                   #
 #                                                         #
 # Alterações                                              #
 #                                                         #
