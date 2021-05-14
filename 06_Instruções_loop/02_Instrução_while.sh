@@ -1,21 +1,22 @@
 #!/bin/bash
 
-# declaando a variável x com o valor inicial 1
+# declarando a var x com o valor inicial 1
 x=1
 
-# pedir valor para o usuário
+# pedir o valor para o usuário
 read -p "Informe o valor máximo: " LIMITE
 
-# variável é menor ou igual ao valor iniformado como LIMITE
+# while >>> (enquanto esse evento ocorrer ou algo for verdadeiro)
+# a var x (for menor ou  igual) ao limite declarado pelo usuário
 while [ $x -le $LIMITE ]
 
 # faça
 do
 
-# mostrar o valor na tela
+# mostre o valor na tela
 echo valor $x
 
-# variável x recebe instrução
+# variável x recebe instrução (em outras linguagens: x=x+1 ou x+=1)
 x=$(expr $x + 1)
 
 done
