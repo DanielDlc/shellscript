@@ -16,7 +16,7 @@ maiuscula shellscript
 #                                                         #
 # Descrição: mudando letras minúscula para maiúscula      #
 #                                                         #
-# Exemplo de uso: ./06_função_letra_maiúscula.sh          #
+# Exemplo de uso: ./01_função_letra_maiúscula.sh          #
 #                                                         #
 # Alterações                                              #
 #                                                         #
