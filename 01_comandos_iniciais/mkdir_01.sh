@@ -1,45 +1,46 @@
 #!/bin/bash
 
-#######################################
-#
-# Autor: Daniel Louro Costa (dlc.engcomputacao@gmail.com)
-# Data Criação: 10/02/2021
-#
-# Descrição: criação de diretório
-#
-# Exemplo de uso: ./PrimeiroScript.sh
-#
-# Alteracoes
-#	Dia X - Inclusao da Função de ordenacao
-#	Dia Y - Correcao da Função de leitura
-#
-################################################
-
 # criando diretório com comando mkdir
-mkdir diretorio1
+mkdir diretorio01
 
-# criando arquivo .sh com comando mkdir
-mkdir arquivo.sh
+# criando um diretório documentos dentro do diretório existente (diretorio01)
+mkdir diretorio01/documentos
 
-#criando arquivo sh dentro do diretório1
-mkdir diretorio1/exercicio1.sh
+# mkdir diretorio02/documentos  (isso gera um erro pois não existe diretorio02)
 
-# não é possível criar um arquivo quando o diretório for inexistente
-# mkdir diretorio2/exercicio2.sh  (isso gera um erro pois não existe diretorio2)
+# para criar uma árvore de diretório utilizamos opção -p
+mkdir -p diretorio02/imagens
 
-# para criar um arquivo dentro de um diretório inexiste utilizamos opção -p
-mkdir -p diretorio2/exercicio2.sh
+# podemos criar dois ou mais diretórios
+mkdir 01_comandos_iniciais diretorio03
 
 #criar diretório com espaço utilizando aspas
-mkdir 'diretorio03'
+mkdir 'diretorio 04'
 
 # remover diretório utilizamos rm -r (opção -r de recursivo)
-rm -r diretorio2
+rm -r diretorio01
 
-# rm remove apenas diretório vazio
-rm diretorio 03
+# remover dois ou mais diretórios
+rm -r diretorio02 diretorio03
 
-# remover apenas diretório vazio rmdir
-rmdir diretorio03
+# -f não exibe a mensagem de erro na tela (caso não exista o arquivo)
+rm -f arquivo_inexistente
 
+# remover apenas diretório vazio
+rmdir diretorio\ 04
 
+###########################################################
+#                                                         #
+# Autor: Daniel Louro Costa (dlc.engcomputacao@gmail.com) #
+# Data de criação: 10/02/2021                             #
+#                                                         #
+# Descrição: criar e excluir diretório                    #
+#                                                         #
+# Exemplo de uso: ./mkdir_01.sh                           #
+#                                                         #
+# Alterações                                              #
+#                                                         #
+# Dia 20/05/16                                            #
+# Dia Y - ...                                             #
+#                                                         #
+###########################################################
