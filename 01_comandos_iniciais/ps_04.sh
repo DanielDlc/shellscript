@@ -5,7 +5,7 @@ ps
 
 # mostrar o processo que utilizamos
 # nome do usuário, PID é o id do processo, comsumo de CPU, memória e memória virtual,
-# horário de execução quando foi iniciado, o tempo que esta em execução e 
+# horário de execução quando foi iniciado, o tempo que esta em execução e
 # nome completo do processo.
 ps axu
 
@@ -15,18 +15,24 @@ ps axu | more
 # visualizar os processos em forma de árvore
 pstree
 
-############################################################
-#							   #
-# Autor: Daniel Louro Costa (dlc.engcomputacao@gmail.com)  #
-# Data Criação: 27/03/2021				   #
-#							   #
-# Descrição: mostrar processos				   #
-#							   #
-# Exemplo de uso: ./ps_04.sh3				   #
-#							   #
-# Alteracoes						   #		   
-#	Dia X - Inclusao da Função de ordenacao		   #
-#	Dia Y - Correcao da Função de leitura		   #
-#							   #
-############################################################
+# mostrar todos os processos em ordem crescente PID
+ps -ef
 
+# informações sobre threads
+ps -eLF
+
+###########################################################
+#                                                         #
+# Autor: Daniel Louro Costa (dlc.engcomputacao@gmail.com) #
+# Data de criação: 27/03/2021                             #
+#                                                         #
+# Descrição: mostrar processos                            #
+#                                                         #
+# Exemplo de uso: ./ps_04.sh                              #
+#                                                         #
+# Alterações                                              #
+#                                                         #
+# Dia X - ...                                             #
+# Dia Y - ...                                             #
+#                                                         #
+###########################################################
