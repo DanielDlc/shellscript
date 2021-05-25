@@ -9,17 +9,18 @@ touch arquivo-teste
 # podemos facilmente visualizar o arquivo atualizado com o comando
 ls -l
 
-############################################################
-#							   #
-# Autor: Daniel Louro Costa (dlc.engcomputacao@gmail.com)  #
-# Data Criação: 27/03/2021				   #
-#							   #
-# Descrição: criar e atualizar arquivos			   #
-#							   #
-# Exemplo de uso: ./touch_05.sh 		           #
-#							   #
-# Alteracoes						   #		   
-#	Dia X - Inclusao da Função de ordenacao		   #
-#	Dia Y - Correcao da Função de leitura		   #
-#							   #
-############################################################
+###########################################################
+#                                                         #
+# Autor: Daniel Louro Costa (dlc.engcomputacao@gmail.com) #
+# Data de criação: 27/03/2021                             #
+#                                                         #
+# Descrição: criar e atualizar arquivos                   #
+#                                                         #
+# Exemplo de uso: ./touch_05.sh                           #
+#                                                         #
+# Alterações                                              #
+#                                                         #
+# Dia X - ...                                             #
+# Dia Y - ...                                             #
+#                                                         #
+###########################################################
