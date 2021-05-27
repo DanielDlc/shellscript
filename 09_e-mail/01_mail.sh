@@ -4,7 +4,7 @@
 
 # instalar e configurar postfix, mutt, bsd-mail, mailutils e ca-certificates
 # adicionar arquivo main.cf no diretório: $ /etc/postfix
-# criar arquivo sasl_passwd com seu e-mail e senha e modifficar (chmod 0,600) deste arquivo.
+# criar arquivo sasl_passwd com seu e-mail e senha e modifficar (chmod 0600) deste arquivo.
 # configurar bd com: $ sudo postmap /etc/postfix/main.cf ; sudo postmap /etc/postfix/sasl_passwd
 # service postfix restart
 
@@ -19,7 +19,7 @@ mail -s "Assunto" dlc.engcomputacao@gmail.com < main.cf
 #                                                         #
 # Descrição: enviando e-mail                              #
 #                                                         #
-# Exemplo de uso: ./01_mail.sh                     #
+# Exemplo de uso: ./01_mail.sh                            #
 #                                                         #
 # Alterações                                              #
 #                                                         #
