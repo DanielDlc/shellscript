@@ -1,8 +1,7 @@
 # Introdução
   Curso de Shell script realizado em 2021.
- material introdutório, básico e intermediário.
  
- 
+
 ## primeiros passos
 -  [Comandos iniciais](https://github.com/DanielDlc/shellscript/tree/master/01_comandos_iniciais)
 -  [comandos dentro de Arquivos](https://github.com/DanielDlc/shellscript/tree/master/02_comandos_dentro_de_arquivos)
