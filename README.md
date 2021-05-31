@@ -1,8 +1,8 @@
 # Introdução
   Curso de Shell script realizado em 2021.
- 
 
-## primeiros passos
+
+## Primeiros passos
 -  [Comandos iniciais](https://github.com/DanielDlc/shellscript/tree/master/01_comandos_iniciais)
 -  [comandos dentro de Arquivos](https://github.com/DanielDlc/shellscript/tree/master/02_comandos_dentro_de_arquivos)
 -  [Expressões Regulares](https://github.com/DanielDlc/shellscript/tree/master/03_Express%C3%B5es_Regulares)
