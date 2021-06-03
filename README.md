@@ -13,6 +13,6 @@
 -  [Instruções Loop](https://github.com/DanielDlc/shellscript/tree/master/06_Instru%C3%A7%C3%B5es_loop)
 -  [Funções](https://github.com/DanielDlc/shellscript/tree/master/07_func%C3%B5es)
 
-## Intermediário
+## Gerando Log para o e-mail
 -  [gerando arquivos de log](https://github.com/DanielDlc/shellscript/tree/master/08_logs)
 -  [enviando e-mail utilizando shell](https://github.com/DanielDlc/shellscript/tree/master/09_e-mail)
