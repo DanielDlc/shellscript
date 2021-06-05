@@ -22,18 +22,16 @@ cat -A alunos2.txt
 tac alunos.txt
 
 ############################################################
-#							   #
+#							                               #
 # Autor: Daniel Louro Costa (dlc.engcomputacao@gmail.com)  #
-# Data Criação: 30/03/2021				   #
-#							   #
+# Data Criação: 30/03/2021				                   #
+#							                               #
 # Descrição: exibe na tela                                 #
-#							   #
-# Exemplo de uso: ./01_cat.sh				   #
-#							   #
-# Alteracoes						   #		   
-#	Dia X - Inclusao da Função de ordenacao		   #
-#	Dia Y - Correcao da Função de leitura		   #
-#							   #
+#							                               #
+# Exemplo de uso: ./01_cat.sh				               #
+#							                               #
+# Alteracoes						                       #
+#	Dia X - Inclusao da Função de ordenacao		           #
+#	Dia Y - Correcao da Função de leitura		           #
+#							                               #
 ############################################################
-
-
