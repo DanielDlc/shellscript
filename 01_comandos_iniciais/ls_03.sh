@@ -28,7 +28,7 @@ ls -a
 #                                                         #
 # Descrição: mostrar diretório atual e listar diretórios  #
 #                                                         #
-# Exemplo de uso: ./ls_03.sh3                             #
+# Exemplo de uso: ./ls_03.sh                              #
 #                                                         #
 # Alterações                                              #
 #                                                         #
