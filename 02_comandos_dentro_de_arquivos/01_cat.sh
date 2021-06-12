@@ -29,7 +29,7 @@ tac alunos.txt
 #                                                         #
 # Descrição: exibe na tela                                #
 #                                                         #
-# Exemplo de uso: ./01_cat.sh                              #
+# Exemplo de uso: ./01_cat.sh                             #
 #                                                         #
 # Alterações                                              #
 #                                                         #
