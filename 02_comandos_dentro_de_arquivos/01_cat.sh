@@ -21,17 +21,19 @@ cat -A alunos2.txt
 # ler do final para o início
 tac alunos.txt
 
-############################################################
-#							                               #
-# Autor: Daniel Louro Costa (dlc.engcomputacao@gmail.com)  #
-# Data Criação: 30/03/2021				                   #
-#							                               #
-# Descrição: exibe na tela                                 #
-#							                               #
-# Exemplo de uso: ./01_cat.sh				               #
-#							                               #
-# Alteracoes						                       #
-#	Dia X - Inclusao da Função de ordenacao		           #
-#	Dia Y - Correcao da Função de leitura		           #
-#							                               #
-############################################################
+
+###########################################################
+#                                                         #
+# Autor: Daniel Louro Costa (dlc.engcomputacao@gmail.com) #
+# Data de criação: 03/03/2021                             #
+#                                                         #
+# Descrição: exibe na tela                                #
+#                                                         #
+# Exemplo de uso: ./01_cat.sh                              #
+#                                                         #
+# Alterações                                              #
+#                                                         #
+# Dia X - ...                                             #
+# Dia Y - ...                                             #
+#                                                         #
+###########################################################
